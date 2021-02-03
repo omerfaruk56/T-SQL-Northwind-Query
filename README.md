@@ -9,10 +9,11 @@ Northwind Database Microsoft'un sağlamış olduğu ücretsiz içerisi dolu bir 
 ## Exercises
 
 1. Retrieve all columns in the Region table
-
 <pre>
-2. Select the FirstName and LastName columns from the Employees table.
+select * from Region
 </pre>
+2. Select the FirstName and LastName columns from the Employees table.
+
 
 3. Select the FirstName and LastName columns from the Employees table.
 Sort by LastName.
