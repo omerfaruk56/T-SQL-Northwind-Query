@@ -1,4 +1,7 @@
 # T-SQL-Northwind-Query
-Northwind veri tabanı kullanarak yeni sorgular yazma
+
+## Özet 
+
+Takım çalışması ile birlikte Northwind veri tabanı üzernde sorgular yazıyoruz.
 
 Northwind Database Microsoft'un sağlamış olduğu ücretsiz içerisi dolu bir database örneğidir.
