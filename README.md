@@ -13,7 +13,7 @@ Northwind Database Microsoft'un sağlamış olduğu ücretsiz içerisi dolu bir 
 select * from Region
 </pre>
 2. Select the FirstName and LastName columns from the Employees table.
-
+<pre>select FirstName,LastName from Employees</pre>
 
 3. Select the FirstName and LastName columns from the Employees table.
 Sort by LastName.
