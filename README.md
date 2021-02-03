@@ -9,6 +9,8 @@ Veri tabanı hayali bir özel gıda ihracat ithalatı olan Northwind Traders iç
 
 Aşağıdaki şema Northwind veritabanının tablo yapısını göstermektedir
 
+![Alt text](https://i.ibb.co/k9119H5/db-diagram.png "Title")
+
 ## Exercises
 
 1. Retrieve all columns in the Region table
