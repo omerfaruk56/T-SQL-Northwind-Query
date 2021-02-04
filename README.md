@@ -19,19 +19,39 @@ select * from Region
 </pre>
 2. Select the FirstName and LastName columns from the Employees table.
 <pre>select FirstName,LastName from Employees</pre>
-
 3. Select the FirstName and LastName columns from the Employees table.
 Sort by LastName.
+<pre>
+...
+</pre>
 4. Create a report showing Northwind's orders sorted by Freight from most expensive to
 cheapest. Show OrderID, OrderDate, ShippedDate, CustomerID, and Freight.
+<pre>
+...
+</pre>
 5. Create a report showing the title and the first and last name of all sales representatives.
+<pre>
+...
+</pre>
 6. Create a report showing the first and last names of all employees who have a region
 specified.
+<pre>
+...
+</pre>
 7. Create a report showing the first and last name of all employees whose last names start
 with a letter in the last half of the alphabet.
+<pre>
+...
+</pre>
 Sort by LastName in descending order.
+<pre>
+...
+</pre>
 8. Create a report showing the title of courtesy and the first and last name of all employees
 whose title of courtesy begins with "M".
+<pre>
+...
+</pre>
 9. Create a report showing the first and last name of all sales representatives who are from
 Seattle or Redmond.
 10. Create a report that shows the company name, contact title, city and country of all
