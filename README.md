@@ -1,4 +1,4 @@
-# T-SQL-Northwind-Query
+# Northwind Veri Tabanı Sorguları
 
 ## Özet 
 
