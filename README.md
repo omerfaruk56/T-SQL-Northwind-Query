@@ -1,6 +1,6 @@
 # Northwind Veri Tabanı Sorguları
 
-## Özet 
+## Overview 
 
 Takım çalışması ile birlikte Northwind veri tabanı üzernde sorgular yazıyoruz.
 
