@@ -11,6 +11,6 @@ Aşağıdaki şema Northwind veritabanının tablo yapısını göstermektedir
 
 ![Alt text](https://i.ibb.co/k9119H5/db-diagram.png "Title")
 
-## <b>Destek</b>
+## <b>Support</b>
 Herhangi bir sorun, geri bildirim veya özellik talebi için omerfaruk56@live.com adresine bir e-posta gönderin, github'da bir Issues oluşturun
 <br>
