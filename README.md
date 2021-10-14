@@ -3,8 +3,7 @@
 ## Overview 
 
 İthalat İhracat yapan Özel Gıda Şirketi için veri tabanı üzerinde sorgular yazıyoruz.
-
-Northwind Database Microsoft'un sağlamış olduğu ücretsiz içerisi dolu bir database örneğidir. </br>
+ </br>
 Veri tabanı hayali bir özel gıda ihracat ithalatı olan Northwind Traders için satış verilerini içerir.
 
 Aşağıdaki şema Northwind veritabanının tablo yapısını göstermektedir
