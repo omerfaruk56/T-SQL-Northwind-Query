@@ -2,8 +2,10 @@
 
 ## Overview 
 
-İthalat İhracat yapan Özel Gıda Şirketi için veri tabanı üzerinde sorgular yazıyoruz.
+İthalat İhracat yapan Özel Gıda Şirketi için veri tabanı üzerinde sorgular yazıyoruz. 
+
  </br>
+ 
 Veri tabanı hayali bir özel gıda ihracat ithalatı olan Northwind Traders için satış verilerini içerir.
 
 Aşağıdaki şema Northwind veritabanının tablo yapısını göstermektedir
